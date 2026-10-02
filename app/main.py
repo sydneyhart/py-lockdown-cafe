@@ -1,4 +1,4 @@
-# write from app.cafe import Cafe
+from app.cafe import Cafe
 from app.errors import NotWearingMaskError, VaccineError
 
 
